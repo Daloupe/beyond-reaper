@@ -1,2 +1,0 @@
-TrackCountNew = 1;
-OscLocalMessageToHost("/reaper/track/count", TrackCountNew);
